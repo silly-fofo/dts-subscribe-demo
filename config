@@ -1,0 +1,8 @@
+brokerUrl=your broker url
+topic=your dts topic
+sid=your sid
+userName=your user name
+password=your password
+initCheckpoint=start timestamp
+subscribeMode=ASSIGN
+isForceUseInitCheckpoint=true
